@@ -26,6 +26,21 @@
     }
   ],
   "downloads": {
+    "xmrw6": {
+      "version": "0.0.1",
+      "file_name": "downloads/MD Ripple RW6.face",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增 REDMI Watch 6 支持"
+        },
+        {
+          "version": "0.0.1",
+          "content": "修正 REDMI Watch 6 屏幕四角内容被切的问题"
+        }
+      ]
+    },
     "xmb9p": {
       "version": "0.0.0",
       "file_name": "downloads/MD Ripple Pro.face",
@@ -45,17 +60,6 @@
         {
           "version": "0.0.0",
           "content": "新增手环 9 Pro / 10 Pro 支持"
-        }
-      ]
-    },
-    "xmrw6": {
-      "version": "0.0.0",
-      "file_name": "downloads/MD Ripple RW6.face",
-      "versionCode": 0,
-      "updatelogs": [
-        {
-          "version": "0.0.0",
-          "content": "新增 REDMI Watch 6 支持"
         }
       ]
     },
